@@ -5,4 +5,4 @@ export const BreakpointSizes = {
   xl: 1200,
 };
 
-export const breajAt = (size) => `@media (min-width:${size}px)`;
+export const breaKat = (size) => `@media (min-width:${size}px)`;
